@@ -604,7 +604,7 @@ if ( $Config{usethreads} ) {
 }
 else {
     print "No multithreading capabilites found!\n";
-    print "Slowloris will be slower than normal as a result.\n";
+    print "Izax will be slower than normal as a result.\n";
 }
 
 my $packetcount : shared     = 0;
